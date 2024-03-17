@@ -1,0 +1,19 @@
+Enterprise Applications used in large business organizations.
+features:
+-concurrent users and external systems.
+-synchronous and asynchronous communication.
+-handle transactional workloads.(consistent DB)
+-scalability (future growth.)
+-resilient and distributed platform (availability.)
+-secure access control (different users.)
+-integrate with back-end systems and web services.
+
+Java Enterprise Edition (Java EE)
+platform-independent standard that is developed under the guidance of the "Java Community Process (JCP)."
+RedHatJBossEnterpriseApplicationPlatform (EAP) implements the Java EE standard.
+benefits :
+-Platform-independent (different OS)
+-Applications are portable across "Java EE compliant application servers".
+-large number of APIs "web services, asynchronous messaging, transactions, database connectivity, thread pools, batching utilities, and security."
+-large number of third-party.
+-A large number of sophisticated (high level of complexity) tools such as IDEs, monitoring systems, enterprise application integration (EAI) frameworks, and performance measurement tools are available for Java EE applications from third-party vendors.
