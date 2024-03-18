@@ -17,3 +17,6 @@ benefits :
 -large number of APIs "web services, asynchronous messaging, transactions, database connectivity, thread pools, batching utilities, and security."
 -large number of third-party.
 -A large number of sophisticated (high level of complexity) tools such as IDEs, monitoring systems, enterprise application integration (EAI) frameworks, and performance measurement tools are available for Java EE applications from third-party vendors.
+
+Comparing JavaEnterpriseEdition (Java EE) and JavaSE
+An application server that passes a test suite called the Technology Compatibility Kit (TCK) for Java EE is known as a Java EE compliant application server.
